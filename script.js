@@ -3,7 +3,7 @@ const slideData = [
   index: 0,
   button: 'Visit',
   link: "https://openbookshelf.github.io/DiscreteMathematics-Persian/",
-  src: 'https://github.com/OpenBookshelf/DiscreteMathematics-Persian/raw/master/Docs/Preview.png' },
+  src: 'https://github.com/OpenBookshelf/DiscreteMathematics-Persian/raw/master/docs/Preview.png' },
 
 {
   index: 1,
