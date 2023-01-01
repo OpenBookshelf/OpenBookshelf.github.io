@@ -81,7 +81,7 @@ h1, h2, h3 {
   display: flex;
   justify-content: center;
   position: absolute;
-  top: calc(100% - 1rem);
+  top: calc(100% - .5vmin);
   width: 100%;
 }
 .slider__controls .btn {
